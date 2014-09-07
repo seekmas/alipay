@@ -1,0 +1,13 @@
+{
+    "name": "mot/alipay",
+    "description": "This is a library from alipay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mot Wu",
+            "email": "seekmas@msn.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
